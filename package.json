@@ -1,0 +1,30 @@
+{
+  "name": "renovate-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lacolaco/renovate-config.git",
+  "author": "Suguru Inatomi <suguru.inatomi@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@angular-devkit/architect": "^0.1102.5",
+    "@angular-devkit/build-angular": "^0.1102.5",
+    "@angular-devkit/core": "^11.2.5",
+    "@angular-devkit/schematics": "^11.2.5",
+    "@angular/cli": "^11.2.5",
+    "@angular/compiler-cli": "^11.2.6",
+    "@types/node": "^14.14.35",
+    "typescript": "~4.1.0"
+  },
+  "dependencies": {
+    "@angular/animations": "^11.2.6",
+    "@angular/cdk": "^11.2.5",
+    "@angular/common": "^11.2.6",
+    "@angular/compiler": "^11.2.6",
+    "@angular/core": "^11.2.6",
+    "@angular/forms": "^11.2.6",
+    "@angular/material": "^11.2.5",
+    "@angular/platform-browser": "^11.2.6",
+    "rxjs": "^6.6.6",
+    "zone.js": "^0.11.4"
+  }
+}
