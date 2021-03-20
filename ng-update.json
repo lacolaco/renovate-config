@@ -28,6 +28,12 @@
       ],
       "matchUpdateTypes": ["major", "minor"],
       "enabled": false
+    },
+    {
+      "groupName": "typescript (major or minor)",
+      "matchPackageNames": ["typescript"],
+      "matchUpdateTypes": ["major", "minor"],
+      "enabled": false
     }
   ]
 }
