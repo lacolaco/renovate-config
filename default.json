@@ -1,9 +1,6 @@
 {
-  "packageRules": [
-    {
-      "groupName": "@types packages",
-      "matchPackagePatterns": ["^@types/"],
-      "automerge": true
-    }
+  "extends": [
+    "github>lacolaco/renovate-config:automerge-types",
+    "github>lacolaco/renovate-config:ng-update"
   ]
 }

@@ -14,12 +14,12 @@ Presets hosted in this repository can be resolved as the following:
 }
 ```
 
-If `:presetName` is omitted, `default` is used instead.
+If `:presetName` is omitted, `default` is used instead. `default.json` includes all presets.
 
 ## Presets
 
-- `lacolaco/renovate-config:default`
-  - Automerge `@types` packages updates as long as it is compatible.
+- `lacolaco/renovate-config:automerge-types`
+  - Enable automerge of `@types` package's minor updates.
 - `lacolaco/renovate-config:ng-update`: For Angular CLI-based repository
   - Disable major or minor version updates for packages which are under the control from `ng update` commands.
     - `@angular/core` package group: https://github.com/angular/angular/blob/master/tools/defaults.bzl#L27

@@ -1,0 +1,10 @@
+{
+  "packageRules": [
+    {
+      "groupName": "@types packages (minor or patch)",
+      "matchPackagePatterns": ["^@types/"],
+      "matchUpdateTypes": ["minor", "patch"],
+      "automerge": true
+    }
+  ]
+}
