@@ -25,7 +25,8 @@ If `:presetName` is omitted, `default` is used instead. `default.json` includes 
     - `@angular/core` package group: https://github.com/angular/angular/blob/master/tools/defaults.bzl#L27
     - `@angular/cli` package group: https://github.com/angular/angular-cli/blob/master/packages/angular/cli/package.json
     - `@angular/material` package group: https://github.com/angular/components/blob/master/src/material/package.json
-    - `typescript`
+    - `typescript` 
+    - `rxjs` (major version only is disabled)
 
 ## License
 
