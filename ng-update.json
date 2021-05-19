@@ -34,6 +34,12 @@
       "matchPackageNames": ["typescript"],
       "matchUpdateTypes": ["major", "minor"],
       "enabled": false
+    },
+    {
+      "groupName": "rxjs (major)",
+      "matchPackageNames": ["rxjs"],
+      "matchUpdateTypes": ["major"],
+      "enabled": false
     }
   ]
 }
