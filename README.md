@@ -27,6 +27,8 @@ If `:presetName` is omitted, `default` is used instead. `default.json` includes 
     - `@angular/material` package group: https://github.com/angular/components/blob/master/src/material/package.json
     - `typescript` 
     - `rxjs` (major version only is disabled)
+- `lacolaco/renovate-config:angular-eslint`
+  - Add groups for `@angular-eslint` and `@typescript-eslint` packages (no automerge).
 
 ## License
 

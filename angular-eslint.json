@@ -1,0 +1,12 @@
+{
+  "packageRules": [
+    {
+      "groupName": "@typescript-eslint packages",
+      "matchPackagePatterns": ["^@typescript-eslint/"]
+    },
+    {
+      "groupName": "@angular-eslint packages",
+      "matchPackagePatterns": ["^@angular-eslint/"]
+    }
+  ]
+}
