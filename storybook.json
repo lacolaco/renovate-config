@@ -3,7 +3,8 @@
     {
       "groupName": "Storybook packages",
       "matchPackagePatterns": ["^@storybook/"],
-      "matchUpdateTypes": ["patch"]
+      "matchUpdateTypes": ["major", "minor"],
+      "enabled": false
     }
   ]
 }
