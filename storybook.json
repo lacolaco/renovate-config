@@ -1,0 +1,9 @@
+{
+  "packageRules": [
+    {
+      "groupName": "Storybook packages",
+      "matchPackagePatterns": ["^@storybook/"],
+      "matchUpdateTypes": ["patch"]
+    }
+  ]
+}

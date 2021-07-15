@@ -29,6 +29,8 @@ If `:presetName` is omitted, `default` is used instead. `default.json` includes 
     - `rxjs` (major version only is disabled)
 - `lacolaco/renovate-config:angular-eslint`
   - Add groups for `@angular-eslint` and `@typescript-eslint` packages (no automerge).
+- `lacolaco/renovate-config:storybook`
+  - Add a group for [Storybook](https://storybook.js.org) packages and enable renovate only for patch versions (because they have `npx sb migrate` command).
 
 ## License
 
