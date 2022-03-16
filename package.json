@@ -15,6 +15,7 @@
     "@angular-eslint/template-parser": "12.7.0",
     "@angular/cli": "11.2.18",
     "@angular/compiler-cli": "11.2.14",
+    "@nguniversal/builders": "13.0.2",
     "@storybook/addon-actions": "6.3.8",
     "@storybook/addon-essentials": "6.3.8",
     "@storybook/addon-links": "6.3.8",
@@ -33,6 +34,7 @@
     "@angular/forms": "^11.2.6",
     "@angular/material": "^11.2.5",
     "@angular/platform-browser": "^11.2.6",
+    "@nguniversal/common": "13.0.2",
     "rxjs": "^6.6.6",
     "zone.js": "^0.11.4"
   }

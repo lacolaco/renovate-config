@@ -1,0 +1,8 @@
+{
+  "packageRules": [
+    {
+      "groupName": "@nguniversal packages",
+      "matchPackagePatterns": ["^@nguniversal/"]
+    }
+  ]
+}
