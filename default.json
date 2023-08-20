@@ -1,9 +1,4 @@
 {
-  "extends": [
-    "github>lacolaco/renovate-config:automerge-types",
-    "github>lacolaco/renovate-config:ng-update",
-    "github>lacolaco/renovate-config:angular-eslint",
-    "github>lacolaco/renovate-config:storybook",
-    "github>lacolaco/renovate-config:nguniversal"
-  ]
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:base"]
 }
