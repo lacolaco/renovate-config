@@ -1,6 +1,6 @@
 {
   "extends": [
-    "config:base",
+    "config:recommended",
     "github>lacolaco/renovate-config:automerge-types",
     "github>lacolaco/renovate-config:ng-update",
     "github>lacolaco/renovate-config:angular-eslint",
