@@ -21,8 +21,8 @@
     "@storybook/addon-links": "6.3.8",
     "@storybook/angular": "6.3.8",
     "@types/node": "16.11.26",
-    "@typescript-eslint/eslint-plugin": "4.33.0",
-    "@typescript-eslint/parser": "4.33.0",
+    "@typescript-eslint/eslint-plugin": "8.35.1",
+    "@typescript-eslint/parser": "8.35.1",
     "typescript": "4.1.5"
   },
   "dependencies": {
